@@ -19,4 +19,5 @@ Public documentation for 503junk.house
 - [ ] Write temporary mission and server rules
 - [ ] Open moderated registration
 - [ ] Recruit starting moderation team
+- [ ] Write documentation
 - [ ] Hold discussion on next steps to mature policy and operations as a community effort
