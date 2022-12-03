@@ -9,7 +9,11 @@ Public documentation for 503junk.house
 - [X] Harden OS
 - [X] Setup Email providor
 - [X] Install mastodon
-- [ ] Configure mastodon for media on a separate drive
+- [X] Move media to seperate device
+- [ ] Get account verified with sendgrid (support ticket open)
+- [ ] Configure environment variables
+- [X] Configure mastodon for media on a separate drive
+- [ ] Setup elastic search server
 - [ ] Install hometown
 - [ ] Configure backup strategy
 - [ ] Harden mastodon
