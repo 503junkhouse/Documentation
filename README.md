@@ -6,11 +6,12 @@ Public documentation for 503junk.house
 - [x] Setup github project for managment of hometown fork and wiki documentation
 - [x] Create side channel planning room on matrix
 - [x] Create VPS
-- [ ] Harden OS
-- [ ] Setup docker
-- [ ] Write easy docker management script (can be forked from homeserver)
-- [ ] Write hometown deployment docker string
-- [ ] Configure environment and persistent volumes on VPS for hometown docker
+- [X] Harden OS
+- [X] Setup Email providor
+- [X] Install mastodon
+- [ ] Configure mastodon for media on a separate drive
+- [ ] Install hometown
+- [ ] Configure backup strategy
 - [ ] Harden mastodon
 - [ ] Testing phase 1
 - [ ] Copy block list from kolektiva.social (very open so seems like a good place to start until feedback from other users is given)
