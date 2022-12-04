@@ -21,7 +21,7 @@ Public documentation for 503junk.house
 - [X] Copy block list from kolektiva.social (very open so seems like a good place to start until feedback from other users is given)
 - [X] Custom theming
 - [X] Testing phase 2 with full restoration testing
-- [ ] Write temporary mission and server rules
+- [X] Write temporary mission and server rules
 - [X] Open moderated registration
 - [ ] Recruit starting moderation team
 - [ ] Write documentation
