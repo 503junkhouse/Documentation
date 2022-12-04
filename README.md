@@ -10,7 +10,7 @@ Public documentation for 503junk.house
 - [X] Setup Email providor
 - [X] Install mastodon
 - [X] Move media to seperate device
-- [ ] Get account verified with sendgrid (support ticket open)
+- [X] Get email working
 - [X] Configure environment variables
 - [X] Configure mastodon for media on a separate drive
 - [X] Setup elastic search server
@@ -22,7 +22,7 @@ Public documentation for 503junk.house
 - [X] Custom theming
 - [X] Testing phase 2 with full restoration testing
 - [ ] Write temporary mission and server rules
-- [ ] Open moderated registration
+- [X] Open moderated registration
 - [ ] Recruit starting moderation team
 - [ ] Write documentation
 - [ ] Hold discussion on next steps to mature policy and operations as a community effort
