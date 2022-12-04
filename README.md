@@ -11,13 +11,13 @@ Public documentation for 503junk.house
 - [X] Install mastodon
 - [X] Move media to seperate device
 - [ ] Get account verified with sendgrid (support ticket open)
-- [ ] Configure environment variables
+- [X] Configure environment variables
 - [X] Configure mastodon for media on a separate drive
-- [ ] Setup elastic search server
-- [ ] Install hometown
-- [ ] Configure backup strategy
-- [ ] Harden mastodon
-- [ ] Testing phase 1
+- [X] Setup elastic search server
+- [X] Install hometown
+- [X] Configure backup strategy
+- [X] Harden mastodon
+- [X] Testing phase 1
 - [ ] Copy block list from kolektiva.social (very open so seems like a good place to start until feedback from other users is given)
 - [ ] Custom theming
 - [ ] Testing phase 2 with full restoration testing
