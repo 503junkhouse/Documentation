@@ -18,9 +18,9 @@ Public documentation for 503junk.house
 - [X] Configure backup strategy
 - [X] Harden mastodon
 - [X] Testing phase 1
-- [ ] Copy block list from kolektiva.social (very open so seems like a good place to start until feedback from other users is given)
-- [ ] Custom theming
-- [ ] Testing phase 2 with full restoration testing
+- [X] Copy block list from kolektiva.social (very open so seems like a good place to start until feedback from other users is given)
+- [X] Custom theming
+- [X] Testing phase 2 with full restoration testing
 - [ ] Write temporary mission and server rules
 - [ ] Open moderated registration
 - [ ] Recruit starting moderation team
